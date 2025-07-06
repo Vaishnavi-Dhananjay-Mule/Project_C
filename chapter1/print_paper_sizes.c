@@ -16,7 +16,7 @@ int main()
     //A2s = A1
    printf("A1 :%d mm x %d mm , A2: %d mm x %d mm\n", A1l, A1s, A2l, A2s);
     return 0;
-  
+  // end
     
   
    
