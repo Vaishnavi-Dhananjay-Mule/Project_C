@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/swapnil/C_Project/Project_C/output/area_perimeter_rectangle_and_circumference_circle'
+relocations:     []
+...
